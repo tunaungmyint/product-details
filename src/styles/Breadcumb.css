@@ -1,0 +1,14 @@
+.nav-links {
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.nav-links a {
+  text-transform: capitalize;
+  color: #c72468;
+  transition: 0.3s;
+}
+
+.nav-links a:hover {
+  color: cornflowerblue;
+}
